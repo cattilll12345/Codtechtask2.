@@ -1,1 +1,0 @@
-# Codtechtask2.
